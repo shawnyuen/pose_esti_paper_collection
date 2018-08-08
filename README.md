@@ -1,9 +1,11 @@
 # PoseEstiPaperCollection
 
 ## 2014
+### DeepPose Human Pose Estimation via Deep Neural Networks CVPR 2014 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.html)
+"first work?"
 ### Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation NIPS 2014 [[paper]](http://papers.nips.cc/paper/5573-joint-training-of-a-convolutional-network-and-a-graphical-model-for-human-pose-estimation)
 "applying Markov Random Field for post-processing"
-### DeepPose Human Pose Estimation via Deep Neural Networks CVPR 2014 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.html)
+### Articulated Pose Estimation by a Graphical Model with Image Dependent Pairwise Relations NIPS 2014 [[paper]](http://papers.nips.cc/paper/5291-articulated-pose-estimation-by-a-graphical-model-with-image-dependent-pairwise-relations)
 
 ## 2015
 ### Combining Local Appearance and Holistic View: Dual-Source Deep Neural Networks for Human Pose Estimation [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Fan_Combining_Local_Appearance_2015_CVPR_paper.html)
@@ -28,8 +30,11 @@
 ### Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.html)
 "OpenPose"
 ### Self Adversarial Training for Human Pose Estimation 2017 [[paper]](https://arxiv.org/abs/1707.02439)
+### Towards Accurate Multi-person Pose Estimation in the Wild CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Papandreou_Towards_Accurate_Multi-Person_CVPR_2017_paper.pdf)
 
 ## 2018
 ### Quantized Densely Connected U-Nets for Efficient Landmark Localization ECCV 2018 [[paper]](https://arxiv.org/abs/1808.02194)
 "DU-Nets", "densely connected U-Nets"
 ### Jointly Optimize Data Augmentation and Network Training Adversarial Data Augmentation in Human Pose Estimation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_Jointly_Optimize_Data_CVPR_2018_paper.pdf) [[PyTorch code]](https://github.com/zhiqiangdon/pose-adv-aug)
+### Cascaded Pyramid Network for Multi-Person Pose Estimation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Cascaded_Pyramid_Network_CVPR_2018_paper.html)
+### 
