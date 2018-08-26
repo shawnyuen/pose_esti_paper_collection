@@ -37,4 +37,4 @@
 "DU-Nets", "densely connected U-Nets"
 ### Jointly Optimize Data Augmentation and Network Training Adversarial Data Augmentation in Human Pose Estimation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Peng_Jointly_Optimize_Data_CVPR_2018_paper.pdf) [[PyTorch code]](https://github.com/zhiqiangdon/pose-adv-aug)
 ### Cascaded Pyramid Network for Multi-Person Pose Estimation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Cascaded_Pyramid_Network_CVPR_2018_paper.html)
-### 
+### Simple Baselines for Human Pose Estimation and Tracking 2018 [[paper]](https://arxiv.org/abs/1804.06208)
