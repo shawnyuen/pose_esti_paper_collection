@@ -10,6 +10,7 @@
 "applying Markov Random Field for post-processing"
 ### Articulated Pose Estimation by a Graphical Model with Image Dependent Pairwise Relations NIPS 2014 [[paper]](http://papers.nips.cc/paper/5291-articulated-pose-estimation-by-a-graphical-model-with-image-dependent-pairwise-relations)
 ### MoDeep A Deep Learning Framework Using Motion Features for Human Pose Estimation ACCV 2014 [[paper]](https://arxiv.org/abs/1409.7963)
+### Multi-source Deep Learning for Human Pose Estimation CVPR 2014 [[paper]](https://ieeexplore.ieee.org/document/6909696/)
 
 ## 2015
 ### Combining Local Appearance and Holistic View: Dual-Source Deep Neural Networks for Human Pose Estimation [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Fan_Combining_Local_Appearance_2015_CVPR_paper.html)
