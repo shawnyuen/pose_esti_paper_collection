@@ -27,6 +27,7 @@
 ### Chained Predictions Using Convolutional Neural Networks ECCV 2016 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_44)
 ### Bottom-Up and Top-Down Reasoning with Hierarchical Rectified Gaussians CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Bottom-Up_and_Top-Down_CVPR_2016_paper.html)
 ### An Efficient Convolutional Network for Human Pose Estimation BMVC 2016 [[paper]](http://www.bmva.org/bmvc/2016/papers/paper109/paper109.pdf)
+### CRF-CNN: Modeling Structured Information in Human Pose Estimation NIPS 2016 [[paper]](https://arxiv.org/abs/1611.00468)
 
 ## 2017
 ### Adversarial Learning of Structure-Aware Fully Convolutional Networks for Landmark Localization ArXiv 2018 [[paper]](https://arxiv.org/abs/1711.00253)
