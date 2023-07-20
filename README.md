@@ -1,4 +1,16 @@
-# PoseEstiPaperCollection
+# pose_esti_paper_collection
+
+## 2022
+### SimCC - A Simple Coordinate Classification Perspective for Human Pose Estimation ECCV 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_6) [[arXiv paper]](https://arxiv.org/abs/2107.03332v3) [[code]](https://github.com/leeyegy/SimCC)
+
+## 2021
+### Human Pose Regression With Residual Log-Likelihood Estimation ICCV 2021
+
+## 2020
+### Distribution-Aware Coordinate Representation for Human Pose Estimation CVPR 2020
+### HigherHRNet - Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation CVPR 2020
+### Learning Delicate Local Representations for Multi-person Pose Estimation ECCV 2020 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_27) [[arXiv paper]](https://arxiv.org/abs/2003.04030) [[code]](https://github.com/caiyuanhao1998/RSN)
+### The Devil Is in the Details - Delving Into Unbiased Data Processing for Human Pose Estimation CVPR 2020
 
 ## 2013
 ### Learning Human Pose Estimation Features with Convolutional Networks ICLR 2014 [[paper]](https://arxiv.org/abs/1312.7302)
